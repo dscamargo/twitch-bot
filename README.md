@@ -1,29 +1,16 @@
-# NodeJS Base Project
-
-A base project to initilize nodejs project using typescript.
-
-- [NodeJS-Project-Base](#nodejs-base-project)
-  - [Technologies](#technologies)
-  - [Installation](#installation)
-  - [License](#license)
-
-## Technologies
-
-- [Typescript](https://www.typescriptlang.org/)
-- [Node](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [Express-Async-Errors](https://www.npmjs.com/package/express-async-errors/)
-- [dotenv](https://www.npmjs.com/package/dotenv)
-- [Eslint-Airbnb](https://eslint.org/)
-- [Ts-Node-dev](https://www.npmjs.com/package/ts-node-dev/)
-- [Tsc](https://www.typescriptlang.org/docs/handbook/compiler-options.html/)
+| Env                   | Description                              | Example                                                                 |
+|-----------------------|------------------------------------------|-------------------------------------------------------------------------|
+| TWITCH_PASS_GENERATOR | OAuth Twitch Token                       | <a href='https://twitchapps.com/tmi/' target='_blank'>Generate here</a> |
+| TIBIA_DATA_API        | Tibia Data API Url                       | https://api.tibiadata.com/v2/                                           |
+| BOT_USERNAME          | Bot username in Twitch                   | bot-username                                                            |
+| CHANNELS              | List of channels separated by semicolons | channel1;channel2;channel3;...                                          |
 
 ## Installation
 
 Clone the project with
 
 ```sh
-git clone https://github.com/dscamargo/nodejs-typescript-base.git
+git clone https://github.com/dscamargo/twitch-bot.git
 ```
 
 Get in the path project, then install the dependencies with:
