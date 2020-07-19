@@ -5,7 +5,7 @@
 | Env                   | Description                              | Example                                                                 |
 |-----------------------|------------------------------------------|-------------------------------------------------------------------------|
 | TWITCH_PASS_GENERATOR | OAuth Twitch Token                       | <a href='https://twitchapps.com/tmi/' target='_blank'>Generate here</a> |
-| TIBIA_DATA_API        | Tibia Data API Url                       | https://api.tibiadata.com/v2/                                           |
+| TIBIA_DATA_API        | Tibia Data API Url                       | https://api.tibiadata.com/v2                                            |
 | BOT_USERNAME          | Bot username in Twitch                   | bot-username                                                            |
 | CHANNELS              | List of channels separated by semicolons | channel1;channel2;channel3;...                                          |
 
