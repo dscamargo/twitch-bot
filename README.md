@@ -1,3 +1,7 @@
+# Tibia and Medivia Twitch Bot
+
+## Under Development.
+
 | Env                   | Description                              | Example                                                                 |
 |-----------------------|------------------------------------------|-------------------------------------------------------------------------|
 | TWITCH_PASS_GENERATOR | OAuth Twitch Token                       | <a href='https://twitchapps.com/tmi/' target='_blank'>Generate here</a> |
